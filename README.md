@@ -1,5 +1,6 @@
 # JGI_downloader
 Download files from JGI
+Now only for PhytozomeV12
 
 ## Needs to change username and password in script before using.
 
